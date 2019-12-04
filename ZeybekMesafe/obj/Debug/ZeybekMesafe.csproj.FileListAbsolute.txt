@@ -1,0 +1,7 @@
+C:\Users\SENTURK\Desktop\ZeybekMesafe\ZeybekMesafe\bin\Debug\ZeybekMesafe.exe.config
+C:\Users\SENTURK\Desktop\ZeybekMesafe\ZeybekMesafe\bin\Debug\ZeybekMesafe.exe
+C:\Users\SENTURK\Desktop\ZeybekMesafe\ZeybekMesafe\bin\Debug\ZeybekMesafe.pdb
+C:\Users\SENTURK\Desktop\ZeybekMesafe\ZeybekMesafe\obj\Debug\ZeybekMesafe.csprojAssemblyReference.cache
+C:\Users\SENTURK\Desktop\ZeybekMesafe\ZeybekMesafe\obj\Debug\ZeybekMesafe.csproj.CoreCompileInputs.cache
+C:\Users\SENTURK\Desktop\ZeybekMesafe\ZeybekMesafe\obj\Debug\ZeybekMesafe.exe
+C:\Users\SENTURK\Desktop\ZeybekMesafe\ZeybekMesafe\obj\Debug\ZeybekMesafe.pdb
